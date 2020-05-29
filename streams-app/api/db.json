@@ -11,28 +11,15 @@
       "id": 2
     },
     {
-      "title": "Best Stream 2020",
-      "description": "Hell Yeahhhh",
-      "userId": "115922594225995584959",
-      "id": 3
-    },
-    {
       "title": "Money Hack Stream",
       "description": "TROLOLOLOL",
       "userId": "115922594225995584959",
       "id": 4
     },
     {
-      "title": "Unexpected Behaviour",
-      "description": "Didn't expect that",
-      "userId": "115922594225995584959",
-      "id": 5
-    },
-    {
-      "title": "New c00l stream",
-      "description": "Lets go champ!",
-      "userId": "115922594225995584959",
-      "id": 6
+      "title": "Stream after refactor",
+      "description": "Edited stream :)",
+      "id": 7
     }
   ]
 }
